@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">HodaPhone</string>
+    <string name="name">name</string>
+    <string name="type">tel_type </string>
+    <string name="f_money">first money</string>
+    <string name="save">save</string>
+    <string name="monthly">monthly</string>
+    <string name="price">price</string>
+    <string name="add_new_customer">add new customer</string>
+    <string name="delete_data">delete data</string>
+    <string name="monthly_payment">monthly payment</string>
+    <string name="date">date</string>
+    <string name="beggars">Beggars</string>
+    <string name="show">show clients data</string>
+    <string name="reason">reason</string>
+    <string name="money1">money</string>
+    <string name="addbeggars">add beggars</string>
+    <string name="showbeggars">show beggars</string>
+    <string name="meessage">data are deleted</string>
+    <string name="errormessage">there no data with this name</string>
+    <string name="recentmoney">recent money</string>
+    <string name="show_data">show data</string>
+    <string name="pay_installment">pay Installment</string>
+    <string name="clientname">enter client name</string>
+    <string name="installment_value">installment value</string>
+    <string name="money">amount of money</string>
+    <string name="installment_show">installment show</string>
+    <string name="delete">delete</string>
+
+
+</resources>

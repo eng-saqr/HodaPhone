@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">حودا فون </string>
+    <string name="name">الاسم</string>
+    <string name="type">نوع التليفون</string>
+    <string name="f_money">مقدمة</string>
+    <string name="save">حفظ</string>
+    <string name="monthly">شهرياُ</string>
+    <string name="price">سعر التليفون</string>
+    <string name="add_new_customer">اضافة زبون جديد</string>
+    <string name="delete_data">حذف البيانات</string>
+    <string name="monthly_payment">دفع القسط</string>
+    <string name="date">التاريخ</string>
+    <string name="reason">السبب</string>
+    <string name="money1">المبلغ</string>
+    <string name="beggars">المتسولون</string>
+    <string name="addbeggars">اضافة متسول</string>
+    <string name="showbeggars">عرض المتسولون</string>
+    <string name="show">عرض بيانات الزبائن</string>
+    <string name="meessage">تم حذف</string>
+    <string name="errormessage">لا توجد بيانات بهذا الاسم </string>
+    <string name="recentmoney">المبلغ المتبقي</string>
+    <string name="show_data">عرض التفاصيل</string>
+    <string name="pay_installment">دفع القسط</string>
+    <string name="clientname">ادخل اسم العميل</string>
+    <string name="installment_value">قيمة الفسط</string>
+    <string name="money">قيمة القسط</string>
+    <string name="installment_show">عرض الاقساط</string>
+    <string name="delete">حذف</string>
+
+
+
+</resources>
