@@ -11,6 +11,8 @@ this app can do
 
 3- pay installments and add it to database
 
+4- shows each installements value with date of buying it 
+
 4- if customer pay all installments you can delete it 
 
 5- add new beggars (people who buy things without paying any money like buy a charger or handfree without paying the cost )
